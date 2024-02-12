@@ -36,4 +36,5 @@
 11. All contributions undergo a code review process.
 
 12. Licensing:
-13  Contributions are licensed.
+    
+13. Contributions are licensed.
